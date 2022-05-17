@@ -1,1 +1,1 @@
-# CSCB09 Linux Resource Monitor
+# Linux Resource Monitor
